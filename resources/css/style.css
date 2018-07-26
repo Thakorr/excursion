@@ -1,9 +1,9 @@
-html {
+body {
   background-color: Black;
   text-align: center;
 }
 
-.header {
+h1 {
   font-family: Verdana;
   font-weight: Normal;
   font-size: 50px;
@@ -11,13 +11,29 @@ html {
   text-align: center;
 }
 
+h2 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+h3 {
+  font-family: Verdana;
+  font-size: 21px;
+  color: Gray;
+}
+
+h4 {
+  font-family: Verdana;
+  font-size: 21px;
+  color: Gray;
+  text-align: right;
+}
+
 .link {
   font-family: Verdana;
   font-size: 16px;
   color: Aquamarine;
   text-align: center;
-}
-
-.background {
-  background-color: Black;
 }
