@@ -1,0 +1,18 @@
+html {
+  background-color: Black;
+}
+
+.header {
+  font-family: Verdana;
+  font-weight: Normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+.link {
+  font-family: Verdana;
+  font-size: 16px;
+  color: Aquamarine;
+  text-align: center;
+}
